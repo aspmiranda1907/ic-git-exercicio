@@ -1,0 +1,3 @@
+Criar um repositório local
+Criar um repositório remoto
+Fazer alterações nos ficheiros
