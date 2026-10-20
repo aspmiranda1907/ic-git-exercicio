@@ -1,4 +1,4 @@
-# Exercícios Git
+# Projeto de Introdução à Computação - Versão B
 
 Exercício 1 - Criar um repositório local
 
